@@ -15,6 +15,8 @@ https://blog.uncommon.is/the-baseline-costs-of-javascript-frameworks-f768e2865d4
 
 https://alarisprime.blog/e-commerce-case-study-building-faster-listing-pages-on-abof-com-part-1-cb99231a1e8a
 
+https://www.thirdpartyweb.today/
+
 Split - 
 1. Front-end strategies
 2. Back-end strategies
