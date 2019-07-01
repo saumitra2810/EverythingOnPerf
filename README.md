@@ -17,6 +17,15 @@ https://alarisprime.blog/e-commerce-case-study-building-faster-listing-pages-on-
 
 https://www.thirdpartyweb.today/
 
+
+Profiling - 
+
+https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/
+
+https://medium.com/@marielgrace/how-to-analyze-runtime-performance-google-devtools-99fda64c09cb
+
+
+
 Split - 
 1. Front-end strategies
 2. Back-end strategies
